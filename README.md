@@ -26,7 +26,7 @@ To run the website locally, follow these steps:
 3. Navigate to the project directory in your terminal.
 4. Install dependencies using `npm install`.
 5. Start the MongoDB server.
-6. Run the application using `npm start`.
+6. Run the application using `nodemon src/index`.
 7. Access the website in your browser at `http://localhost:5500`.
 
 ## Usage
