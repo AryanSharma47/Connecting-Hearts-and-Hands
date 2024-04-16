@@ -45,20 +45,10 @@
                         <li>
                             <a href="/views/team.html">Our Team</a>
                         </li>
-                        <% if (isLoggedIn) { %>
-                            <!-- If logged in, show user information and logout option -->
-                            <li>
-                                <div class="dropdown">
-                                    <a href="#" class="dropbtn">Welcome, <%= user.name %></a>
-                                    <div class="dropdown-content">
-                                        <a href="/logout">Logout</a>
-                                    </div>
-                                </div>
-                            </li>
-                        <% } else { %>
-                            <!-- If not logged in, show login option -->
-                            <li><a href="/login">Login</a></li>
-                        <% } %>                        
+                       <li>
+                        <a href="/views/team.html">Our Team</a>
+
+                       </li>                 
                     </ul>
                 </nav>
             </div>
