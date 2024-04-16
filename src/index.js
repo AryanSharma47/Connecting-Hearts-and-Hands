@@ -73,8 +73,13 @@ const requireLogin = (req, res, next) => {
   }
 };
 
+// app.get("/", (req, res) => {
+//   res.render("login");
+// });
+
 app.get("/", (req, res) => {
-  res.render("login");
+  // Redirect to index.ejs
+  res.redirect("/views/index.html");
 });
 
 // Render the login page
