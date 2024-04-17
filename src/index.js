@@ -7,7 +7,7 @@ const bcrypt = require("bcryptjs");
 const EventEmitter = require('events');
 
 // Increase the maximum number of listeners for the TLSSocket EventEmitter
-tlsSocket.setMaxListeners(15);
+tlsSocket.setMaxListeners(35);
 
 const app = express();
 
