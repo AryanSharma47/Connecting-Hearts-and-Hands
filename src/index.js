@@ -4,6 +4,10 @@ const MongoDBStore = require("connect-mongodb-session")(session);
 const path = require("path");
 const collection = require("./config");
 const bcrypt = require("bcryptjs");
+const EventEmitter = require('events');
+
+// Increase the maximum number of listeners for the TLSSocket EventEmitter
+tlsSocket.setMaxListeners(15);
 
 const app = express();
 
