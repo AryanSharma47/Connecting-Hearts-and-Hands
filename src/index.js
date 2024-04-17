@@ -9,7 +9,7 @@ const EventEmitter = require('events');
 const app = express();
 
 // Increase the maximum number of listeners for the TLSSocket EventEmitter
-app.setMaxListeners(35);
+app.setMaxListeners(1000);
 
 // Set up MongoDB session store
 const store = new MongoDBStore({
