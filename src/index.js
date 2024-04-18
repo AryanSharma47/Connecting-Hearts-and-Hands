@@ -293,10 +293,10 @@ app.get("/views/donating.html", requireLogin, (req, res) => {
 });
 
 //Serve donate.html
-app.get("/views/donate.html", requireLogin, (req, res) => {
+app.get("/views/Donate.html", requireLogin, (req, res) => {
   const loggedInUser = req.session.loggedInUser;
   const isLoggedIn = !!loggedInUser;
-  res.render("donate", { isLoggedIn, user: loggedInUser });
+  res.render("education", { isLoggedIn, user: loggedInUser });
 });
 
 //Serve ngo2.html
