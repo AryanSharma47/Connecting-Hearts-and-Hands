@@ -1,281 +1,267 @@
 [
-    {
+  {
       "id": 1,
       "name": "Aakriti Development Society",
       "description": "Empowering communities through education and literacy programs.",
       "address": "Aakriti Development Institute, Nadaun Chowk, Hamirpur, Himachal Pradesh, PIN 177001",
-      "contact": "123456789",
+      "contact": "9876543210",
       "location": "Hamirpur, Himachal Pradesh",
       "tags": ["Education", "Literacy"],
       "website": "https://www.ngoreporter.com/aakriti-development-society/",
       "payment": "Bank of India, Account No. 841310110010284, IFSC - BKID0008413",
-      "About": "Empowering communities through education and literacy programs is a transformative endeavor that uplifts individuals and societies alike. By providing access to quality education and fostering literacy skills, these programs pave the way for personal growth, economic advancement, and social cohesion. Education serves as a powerful tool for breaking the cycle of poverty, enabling individuals to secure better employment opportunities and improve their overall quality of life. Moreover, literacy empowers individuals to actively participate in civic life, exercise their rights, and contribute meaningfully to their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-    },
-    {
+      "About": "Empowering communities through education and literacy programs is a transformative endeavor that uplifts individuals and societies alike. By providing access to quality education and fostering literacy skills, these programs pave the way for personal growth, economic advancement, and social cohesion. Education serves as a powerful tool for breaking the cycle of poverty, enabling individuals to secure better employment opportunities and improve their overall quality of life. Moreover, literacy empowers individuals to actively participate in civic life, exercise their rights, and contribute meaningfully to their communities. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+  },
+  {
       "id": 2,
       "name": "Aastha Welfare Society",
       "description": "Providing care and support to underprivileged children for a better future.",
       "address": "AASTHA SPECIAL SCHOOL, Near GPO, Pucca Tank, Nahan, District Sirmaur, Himachal Pradesh 173001",
-      "contact": "",
+      "contact": "9876543211",
       "location": "Nahan, District Sirmaur, Himachal Pradesh",
       "tags": ["Children", "Women", "Development"],
       "website": "https://projectheena.com/nitikapbedre",
       "payment": "Bank of India, Account No. 50100555332880, IFSC - HDFC0000133",
       "About": "Aastha Welfare Society is dedicated to providing care and support to underprivileged children for a better future. Our organization is committed to ensuring that every child receives the necessary support and resources to thrive. Through our holistic approach, we address the diverse needs of children, including education, healthcare, and emotional well-being. We believe that by investing in children today, we can create a brighter and more equitable tomorrow."
-    },
-    {
+  },
+  {
       "id": 3,
       "name": "Abhinaya Durpan",
       "description": "Promoting art and culture to preserve and celebrate heritage.",
       "address": "House No. 145/6, Muslim Trust Building, Lower Bazar",
-      "contact": "",
+      "contact": "9876543212",
       "location": "Lower Bazar",
       "tags": ["Art", "Culture"],
       "website": "https://socialprimes.com/ngo/c7f49e83-9227-4667-86b5-a311a5110c0e",
       "payment": "ICICI Bank, Account No. 032205001782, IFSC - ICIC0000322",
       "About": "Abhinaya Durpan is passionate about promoting art and culture to preserve and celebrate heritage. Our organization is dedicated to fostering artistic expression and cultural enrichment through various initiatives, including performances, workshops, and exhibitions. We believe that art has the power to transcend boundaries, unite communities, and inspire positive change."
-    },
-
-  
-    {
+  },
+  {
       "id": 4,
       "name": "Abhivibha",
       "description": "Caring for the elderly population with respect and dignity.",
       "address": "Geeta Bhawan, Dhingoo Hill, Sanjauli, Shimla-6",
-      "contact": "",
+      "contact": "9876543213",
       "location": "Shimla",
       "tags": ["Aged", "Elderly"],
-      "website": "https://www.searchdonation.com/ngo/abhivibha.php#google_vignette",
+      "website": "https://www.searchdonation.com/ngo",
       "payment": "Bank Name - State Bank of India, Account No. - 32344893165, IFSC - SBIN0001706",
-      "About": "Abhivibha is committed to caring for the elderly population with respect and dignity. Our organization provides a range of services to support the physical, emotional, and social well-being of seniors. We believe that every individual deserves to age with dignity, and by providing compassionate care and support, we can enhance the quality of life for our elderly community members. Beyond individual benefits, our community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-      },
+      "About": "Abhivibha is committed to caring for the elderly population with respect and dignity. Our organization provides a range of services to support the physical, emotional, and social well-being of seniors. We believe that every individual deserves to age with dignity, and by providing compassionate care and support, we can enhance the quality of life for our elderly community members."
+  },
   {
-    "id": 5,
-    "name": "Ablaze Educational And Welfare Society",
-    "description": "Empowering individuals through education and literacy initiatives.",
-    "address": "APT Information Technology, Near NH-21, Old SBI Indiara Cottage, Dhalpur, Kullu (H.P) - 175101",
-    "contact": "",
-    "location": "Kullu, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://www.searchdonation.com/ngo/ablaze-educational-and-welfare-society.php",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-    "About": "Ablaze Educational And Welfare Society is dedicated to empowering individuals through education and literacy initiatives. Our organization is committed to providing access to quality education and fostering literacy skills to enable personal growth and socio-economic development. We believe that education is the key to unlocking human potential and creating a more equitable society.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
+      "id": 5,
+      "name": "Ablaze Educational And Welfare Society",
+      "description": "Empowering individuals through education and literacy initiatives.",
+      "address": "APT Information Technology, Near NH-21, Old SBI Indiara Cottage, Dhalpur, Kullu (H.P) - 175101",
+      "contact": "9876543214",
+      "location": "Kullu, Himachal Pradesh",
+      "tags": ["Education", "Literacy"],
+      "website": "https://www.searchdonation.com/ngo/ablaze-educational-and-welfare-society.php",
+      "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
+      "About": "Ablaze Educational And Welfare Society is dedicated to empowering individuals through education and literacy initiatives. Our organization is committed to providing access to quality education and fostering literacy skills to enable personal growth and socio-economic development. We believe that education is the key to unlocking human potential and creating a more equitable society."
   },
   {
     "id": 6,
     "name": "Ab Theatre Group",
     "description": "Promoting artistic expression and cultural enrichment through theater.",
     "address": "Dayal store 150/3 lower Bazar Shimla-171001",
-    "contact": "",
+    "contact": "9805262780",
     "location": "Shimla",
     "tags": ["Art", "Culture"],
     "website": "https://www.searchdonation.com/ngo/ab-theatre-group.php",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-     "About":"Ab theatre Group is Promoting artistic expression and cultural enrichment through theater is the primary focus of Ab Theatre Group. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
+    "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+    "About": "Ab theatre Group is Promoting artistic expression and cultural enrichment through theater is the primary focus of Ab Theatre Group. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated."
+},
+{
     "id": 7,
     "name": "Action Research And Training",
     "description": "Advancing agricultural practices for sustainable rural development.",
     "address": "Near SDH Rajgarh, PO and Teshil RAJGARH, Distt SIRMOUR HP, 173101",
-    "contact": "",
+    "contact": "9816017162",
     "location": "Sirmaur, Himachal Pradesh",
     "tags": ["Agriculture"],
     "website": "https://www.arth.in/",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-     "About": "Action Research and Training Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-     
-
-
-
-
-  },
-  {
+    "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
+    "About": "Action Research and Training Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+},
+{
     "id": 8,
     "name": "Adarsh Educational And Social Welfare Society",
     "description": "Supporting the elderly population with educational and social initiatives.",
     "address": "Village Bhutti Colony P.O Shamshi Tehsil Bhunter Distt. Kullu (HP) Pin-175126",
-    "contact": "",
+    "contact": "9805710412",
     "location": "Kullu, Himachal Pradesh",
     "tags": ["Aged", "Elderly"],
     "website": "https://www.searchdonation.com/ngo/adarsh-educational-welfare-society.php",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Adarsh Educational And Social Welfare Society's mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-  },
-  {
+    "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
+    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Adarsh Educational And Social Welfare Society's mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life."
+},
+{
     "id": 9,
     "name": "Adhyatam Welfare Society",
     "description": "Improving health and family welfare through community engagement.",
     "address": "Adyatam Welfare Society, Mohal, Kullu.175126",
-    "contact": "",
+    "contact": "9805557432",
     "location": "Kullu, Himachal Pradesh",
     "tags": ["Health", "Family Welfare"],
     "website": "https://www.searchdonation.com/ngo/adhyatam-welfare-society.php?lst=manage",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Adarsh Educational And Social Welfare Society's mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-  },
-  {
+    "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
+    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Adarsh Educational And Social Welfare Society's mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life."
+},
+{
     "id": 10,
     "name": "Al Huda Educational And Vocational Society",
     "description": "Providing educational and vocational opportunities for empowerment.",
     "address": "Al HUDA EDUCATIONAL And VOCATIONAL SOCIETY, Village Dinak, Post Office- Kanaid, Tehsil- Sundar Nagar-175019",
-    "contact": "",
+    "contact": "9816460597",
     "location": "Sundar Nagar, Himachal Pradesh",
     "tags": ["Education", "Literacy"],
     "website": "https://www.searchdonation.com/ngo/al-huda-educational-and-vocational-society.php?lst=manage",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-     "About": "Empowering women and children through education and vocational training is the cornerstone of Al Huda Educational And Vocational Society's mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
+    "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
+    "About": "Empowering women and children through education and vocational training is the cornerstone of Al Huda Educational And Vocational Society's mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families."
+},
+{
     "id": 11,
     "name": "All India Anti Crime Bureau",
     "description": "Protecting human rights and advocating for justice and equality.",
     "address": "KH. NO 382/1 VILLAGE POST OFFICE BHAKRERI DISTT, HAMIRPUR(HP), PIN CODE -174305",
-    "contact": "",
+    "contact": "9876543210",
     "location": "Hamirpur, Himachal Pradesh",
     "tags": ["Human Rights"],
     "website": "https://aiacb.com/about-all-india-anti-crime-bureau/",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-     "About": "Improving health and family welfare through community engagement is the primary focus of All India Social Awareness Society Hp. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
-  },
-  {
+    "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+    "About": "Improving health and family welfare through community engagement is the primary focus of All India Social Awareness Society Hp. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives."
+},
+{
     "id": 12,
     "name": "All India Educational And Welfare Trust",
     "description": "Empowering children through education and holistic development.",
     "address": "Infoage Corporation, Gurudwara road, Dharamshala, kangra ,HP, India 176215",
-    "contact": "",
+    "contact": "9805682900",
     "location": "Dharamshala, Kangra, Himachal Pradesh",
     "tags": ["Children"],
     "website": "https://www.searchdonation.com/ngo/all-india-educational-and-welfare-trust.php",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-     "About": "Improving health and family welfare through community engagement is the primary focus of All India Social Awareness Society Hp. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-  },
-  {
+    "payment": "bank name- ICICI bank account no.- 032205001782 - IFSC - ICIC0000322",
+    "About": "Improving health and family welfare through community engagement is the primary focus of All India Social Awareness Society Hp. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives."
+    },
+    {
     "id": 13,
     "name": "All India Social Awareness Society Hp",
     "description": "Promoting animal husbandry practices for sustainable rural livelihoods.",
     "address": "All India Social Awareness Society, V.P.O. Kangoo, Teh. Nadaun, Distt. Hamirpur (H.P.) 177040",
-    "contact": "",
+    "contact": "9816094345",
     "location": "Hamirpur, Himachal Pradesh",
     "tags": ["Animal Husbandry"],
     "website": "https://www.searchdonation.com/ngo/all-india-social-awareness-society-hp.php",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-    "About": "Improving health and family welfare through community engagement is the primary focus of All India Social Awareness Society Hp. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-  },
-  {
+    "payment": "bank name- State bank of India account no.- 32344893165 - IFSC - SBIN0001706 ",
+    "About": "Improving health and family welfare through community engagement is the primary focus of All India Social Awareness Society Hp. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives."
+    },
+    {
     "id": 14,
     "name": "Alternatively Very New Ideology Avni",
     "description": "Fostering innovation and sustainable practices in animal husbandry.",
     "address": "C/o B.N.Gupta Niwas, H.No. 27/1, Boil;eauganj, Shimla - 1710005, Himachal Pradesh",
-    "contact": "",
+    "contact": "9805012345",
     "location": "Shimla, Himachal Pradesh",
     "tags": ["Animal Husbandry"],
     "website": "https://www.apnashimla.com/alternatively-very-new-ideology-avni/",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-    "About": "Alternatively Very New Ideology Avni, We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
-  },
-  {
+    "payment": "bank name- ICICI bank account no.- 032205001782 - IFSC - ICIC0000322",
+    "About": "Alternatively Very New Ideology Avni, We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families."
+    },
+    {
     "id": 15,
     "name": "Amrit Education Society",
     "description": "Dedicated to providing quality education for all-round development.",
     "address": "VILLAGE DHALIARA , TEHSIL DEHRA DISTT KANGRA HP 177103",
-    "contact": "",
+    "contact": "9805723456",
     "location": "Kangra, Himachal Pradesh",
     "tags": ["Education", "Literacy"],
     "website": "https://www.searchdonation.com/amrit-education-society",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+    "payment": "bank name- Bank of India account no.- 841310110010284 - IFSC - BKID0008413",
     "About": "Empowering women and children through education and vocational training is the cornerstone of Amrit Education Society. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-    
-  },
-  {
+    },
+    {
     "id": 16,
     "name": "Anahita Foundation",
     "description": "Championing human rights and social justice for marginalized communities.",
     "address": "ABS Globle Institute of Management & Technology, Chadiyar Complex, Behind SBP, Nerchowk, Distt. Mandi H.P. 175008",
-    "contact": "",
+    "contact": "9805147852",
     "location": "Mandi, Himachal Pradesh",
     "tags": ["Human Rights"],
     "website": "https://anahitafoundation.org/",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-     "About":"Empowering women and children through education and vocational training is the cornerstone of Anahita Foundation. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-  },
-  {
+    "payment": "bank name- State bank of India account no.- 32344893165 - IFSC - SBIN0001706 ",
+    "About": "Empowering women and children through education and vocational training is the cornerstone of Anahita Foundation. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+    },
+    {
     "id": 17,
     "name": "Anita Salaria Memorial Trust",
     "description": "Promoting animal husbandry practices for sustainable rural livelihoods.",
     "address": "VPO Awankha, Dinanagar, Teh & Distt Gurdaspur",
-    "contact": "",
+    "contact": "9816012345",
     "location": "Gurdaspur, Punjab",
     "tags": ["Animal Husbandry"],
     "website": "https://www.searchdonation.com/ngo/anita-salaria-memorial-trust.php",
-    "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-    "About": "Empowering women and children through education and vocational training is the cornerstone of Anita Salaria Memorial Trust mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+    "payment": "bank name- ICICI bank account no.- 032205001782 - IFSC - ICIC0000322",
+    "About": "Empowering women and children through education and vocational training is the cornerstone of Anita Salaria Memorial Trust mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledgeand resources they need to succeed."
   },
   {
-    "id": 18,
-    "name": "Anjuman Islamia Churah",
-    "description": "Providing educational opportunities for literacy and empowerment.",
-    "address": "VPO Ganed Teh. Churah, Distt. Chamba Himachal Pradesh, Pincode 176316",
-    "contact": "",
-    "location": "Chamba, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://www.searchdonation.com/ngo/anjuman-islamia-churah.php",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-     "About":"Empowering women and children through education and vocational training is the cornerstone of Al Huda Educational And Vocational Society's mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
+  "id": 18,
+  "name": "Anjuman Islamia Churah",
+  "description": "Providing educational opportunities for literacy and empowerment.",
+  "address": "VPO Ganed Teh. Churah, Distt. Chamba Himachal Pradesh, Pincode 176316",
+  "contact": "9816712345",
+  "location": "Chamba, Himachal Pradesh",
+  "tags": ["Education", "Literacy"],
+  "website": "https://www.searchdonation.com/ngo/anjuman-islamia-churah.php",
+  "payment": "bank name- State bank of India account no.- 32344893165 - IFSC - SBIN0001706 ",
+  "About": "Empowering women and children through education and vocational training is the cornerstone of Al Huda Educational And Vocational Society's mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
-    "id": 19,
-    "name": "Ankur Welfare Association",
-    "description": "Empowering underprivileged children through education and support.",
-    "address": "ADHA SWAMI SATSANG ROAD, GAGRET-177201, TEHSIL-AMB, DISTRICT-UNA(hp)",
-    "contact": "",
-    "location": "Una, Himachal Pradesh",
-    "tags": ["Children"],
-    "website": "https://ankurngo.org/",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-       "About": "Improving health and family welfare through community engagement is the primary focus of Ankur Welfare Association. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+  "id": 19,
+  "name": "Ankur Welfare Association",
+  "description": "Empowering underprivileged children through education and support.",
+  "address": "ADHA SWAMI SATSANG ROAD, GAGRET-177201, TEHSIL-AMB, DISTRICT-UNA(hp)",
+  "contact": "9806023451",
+  "location": "Una, Himachal Pradesh",
+  "tags": ["Children"],
+  "website": "https://ankurngo.org/",
+  "payment": "bank name- Bank of India account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Improving health and family welfare through community engagement is the primary focus of Ankur Welfare Association. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
-    "id": 20,
-    "name": "Aqsa Educational And Welfare Society Kullu Himachal Pradesh",
-    "description": "Promoting sustainable animal husbandry practices for rural development.",
-    "address": "Ritu Raj Complex, Dhalpur Kullu, H.P. 175101",
-    "contact": "",
-    "location": "Kullu, Himachal Pradesh",
-    "tags": ["Animal Husbandry"],
-    "website": "https://www.searchdonation.com/ngo/aqsa-educational-and-welfare-socity-kullu-himachal-pradesh.php",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-     "About":"Supporting the elderly population with educational and social initiatives is at the heart of Aqsa Educational And Welfare Society Kullu Himachal Pradesh mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+  "id": 20,
+  "name": "Aqsa Educational And Welfare Society Kullu Himachal Pradesh",
+  "description": "Promoting sustainable animal husbandry practices for rural development.",
+  "address": "Ritu Raj Complex, Dhalpur Kullu, H.P. 175101",
+  "contact": "9816612345",
+  "location": "Kullu, Himachal Pradesh",
+  "tags": ["Animal Husbandry"],
+  "website": "https://www.searchdonation.com/ngo/aqsa-educational-and-welfare-socity-kullu-himachal-pradesh.php",
+  "payment": "bank name- ICICI bank account no.- 032205001782 - IFSC - ICIC0000322",
+  "About": "Supporting the elderly population with educational and social initiatives is at the heart of Aqsa Educational And Welfare Society Kullu Himachal Pradesh mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
-  {
+   {
     "id": 21,
     "name": "Arsh Educational And Social Welfare Trust",
     "description": "Empowering individuals through education and literacy initiatives.",
     "address": "Arsh Educational and Social Welfare Trust, Near Post Office, VPO Thunag, Distt - Mandi, Himachal Pradesh",
-    "contact": "",
+    "contact": "94187-42054",
     "location": "Mandi, Himachal Pradesh",
     "tags": ["Education", "Literacy"],
     "website": "https://www.searchdonation.com/ngo/arsh-educational-and-social-walfare-trust.php",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-    "About":"Supporting the elderly population with educational and social initiatives is at the heart of Arsh Educational And Social Welfare Trust mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+    "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Arsh Educational And Social Welfare Trust mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 22,
     "name": "Arushi Gramin Santhan",
     "description": "Ensuring access to clean drinking water for rural communities.",
     "address": "Near GVM School, Tikker Road Rajgarh",
-    "contact": "",
+    "contact": "98055-37554",
     "location": "Rajgarh, Himachal Pradesh",
     "tags": ["Drinking Water"],
     "website": "https://www.searchdonation.com/ngo/arushi-gramin-santhan.php",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-     "About": "Improving health and family welfare through community engagement is the Empowering women and children through education and vocational training is the cornerstone of Arushi Gramin Santhan mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+    "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
+    "About": "Improving health and family welfare through community engagement is the Empowering women and children through education and vocational training is the cornerstone of Arushi Gramin Santhan mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 23,
@@ -286,230 +272,212 @@
     "location": "Shimla, Himachal Pradesh",
     "tags": ["Education", "Literacy"],
     "website": "https://www.searchdonation.com/ngo/arushi-gramin-santhan.php",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-    "About":"Improving health and family welfare through community engagement is the Empowering women and children through education and vocational training is the cornerstone of Al Huda Educational And Vocational Society's mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+    "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+    "About": "Improving health and family welfare through community engagement is the Empowering women and children through education and vocational training is the cornerstone of Al Huda Educational And Vocational Society's mission. We believe that education is the key to unlocking opportunities and creating a brighter future. Through our programs, we aim to provide women and children with the knowledge, skills, and resources they need to build better lives for themselves and their families. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 24,
     "name": "Association For Rural And Technical Education Centre",
     "description": "Fostering the holistic development of children through education.",
     "address": "ARTEC, Regd. Office-Village and Post Office Malan, Admn Office: Village Mahendru, P.O. Katora, Tehsil Dehra Distt. Kangra",
-    "contact": "",
+    "contact": "97364-32525",
     "location": "Dehra, Kangra, Himachal Pradesh",
     "tags": ["Children"],
     "website": "https://www.searchdonation.com/ngo/arushi-gramin-santhan.php",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-     "About":"Improving health and family welfare through community engagement is the primary focus of Adhyatam Welfare Society. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+    "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
+    "About": "Improving health and family welfare through community engagement is the primary focus of Adhyatam Welfare Society. We are committed to promoting holistic health and well-being for individuals and families in our community. Through our educational programs, healthcare initiatives, and community outreach efforts, we seek to empower individuals to make informed decisions about their health and lead healthy, fulfilling lives. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 25,
     "name": "Association For Rural Entrepreneurship Development",
     "description": "Promoting sustainable animal husbandry practices for rural livelihoods.",
     "address": "BRANCH OFFICE MAHILAMANDAL BUILDING KANDAGHAT DISTT. SOLAN (HP)",
-    "contact": "",
+    "contact": "94183-25980",
     "location": "Solan, Himachal Pradesh",
     "tags": ["Animal Husbandry"],
     "website": "https://give.do/discover/H0T/association-for-rural-entrepreneurship-development/",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-    "About":"Supporting the elderly population with educational and social initiatives is at the heart of Association For Rural Technologies mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
+    "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
+    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Association For Rural Technologies mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 26,
     "name": "Association For Rural Technologies",
     "description": "Preserving and promoting traditional art and cultural practices.",
     "address": "C/o Jagdish Thapa, Village Kothi Deora, Post Office Ghatti, Via Saproon, Tehsil & Distt Solan, Pin No. 173211",
-    "contact": "",
+    "contact": "94598-31034",
     "location": "Solan, Himachal Pradesh",
     "tags": ["Art", "Culture"],
     "website": "https://www.searchdonation.com/ngo/association-for-rural-technologies.php",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-     
-     "About":"Supporting the elderly population with educational and social initiatives is at the heart of Association For Rural Technologies mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life.Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
+    "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
+    "About": "Supporting the elderly population with educational and social initiatives is at the heart of Association For Rural Technologies mission. We are dedicated to providing comprehensive support services to seniors, including education, healthcare, and social engagement opportunities. Our goal is to ensure that every senior citizen has the resources and support they need to live a dignified and fulfilling life. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 27,
     "name": "Association For Social And Hills Advancement",
     "description": "Promoting sustainable animal husbandry practices for rural livelihoods.",
     "address": "Village and Post Office Khera, Tehsil Palampur, Dist. Kangra, HP- 176086",
-    "contact": "",
+    "contact": "94180-45066",
     "location": "Kangra, Himachal Pradesh",
     "tags": ["Animal Husbandry"],
     "website": "https://give.do/discover/H0U/association-for-social-and-hills-advancement/",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-    
-     "About":"Promoting artistic expression and cultural enrichment through theater is the primary focus ofAwareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
+    "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+    "About": "Promoting artistic expression and cultural enrichment through theater is the primary focus of Awareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 28,
     "name": "Association For Social Health In India",
     "description": "Protecting and promoting the welfare of children and families.",
     "address": "Association for Social Health in India, Block No.3, Set No.35, US Club Shimla(H.P)171001",
-    "contact": "",
+    "contact": "94180-11625",
     "location": "Shimla, Himachal Pradesh",
     "tags": ["Children"],
     "website": "https://www.ashiindia.org/",
-    "payment":"bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
-    
-     "About":"Promoting artistic expression and cultural enrichment through theater is the primary focus ofAwareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
+    "payment": "bank name- ICICI bank  account no.- 032205001782 - IFSC -  ICIC0000322",
+    "About": "Promoting artistic expression and cultural enrichment through theater is the primary focus of Awareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
   },
   {
     "id": 29,
     "name": "Association For Social Research And Action",
     "description": "Promoting art and cultural activities for community enrichment.",
     "address": "HNo 22/5, Palace Colony Colony, Mandi H.P. 175001",
-    "contact": "",
+    "contact": "94180-28532",
     "location": "Mandi, Himachal Pradesh",
     "tags": ["Art", "Culture"],
-    "website": "https://asrapatna.in/",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706 ",
-    
-     "About":"Promoting artistic expression and cultural enrichment through theater is the primary focus ofAwareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
-  },
-  {
-    "id": 30,
-    "name": "Association Of Rural Activities And Voluntary Action For Literary Information Aravali",
-    "description": "Fostering literacy and education for rural development.",
-    "address": "ARAVALLI, Village Palagadh PO Kuppa Via- Gohand Teh- Nahan Distt- Sirmour (HP)",
-    "contact": "",
-    "location": "Sirmaur, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://aravalliindia.org/",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-     "About":"Promoting artistic expression and cultural enrichment through theater is the primary focus ofAwareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
-
-  },
-  {
-    "id": 31,
-    "name": "Awareness Of Global Environmental Friendship Society",
-    "description": "Promoting sustainable animal husbandry practices for rural livelihoods.",
-    "address": "Village Manal, Post Office- Kot Khamradha, Sub tehsil -Aut, District Mandi, Himachal Pradesh, PIN 175121",
-    "contact": "",
-    "location": "Mandi, Himachal Pradesh",
-    "tags": ["Animal Husbandry"],
-    "website": "https://www.searchdonation.com/awareness-of-global-environmental-friendship-society",
-     "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-      "About":"Promoting artistic expression and cultural enrichment through theater is the primary focus ofAwareness Of Global Environmental Friendship Society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-  },
-  {
-    "id": 32,
-    "name": "Baba Nand Shah Sewa Samiti",
-    "description": "Advocating for human rights and social justice for all.",
-    "address": "BABA NAND SHAH SEWA SAMITI, CHOPRA NIWAS, OLD BUS STAND GHUMARWIN, DISTT. BILASPUR (H.P.) PIN-174021",
-    "contact": "",
-    "location": "Ghumarwin, Bilaspur, Himachal Pradesh",
-    "tags": ["Human Rights"],
-    "website": "https://www.searchdonation.com/ngo/baba-nand-shah-sewa-samiti.php",
-     "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-     "About":"Baba Nand Shah Sewa Samiti is Empowering communities through education and literacy programs is a transformative endeavor that uplifts individuals and societies alike. By providing access to quality education and fostering literacy skills, these programs pave the way for personal growth, economic advancement, and social cohesion. Education serves as a powerful tool for breaking the cycle of poverty, enabling individuals to secure better employment opportunities and improve their overall quality of life. Moreover, literacy empowers individuals to actively participate in civic life, exercise their rights, and contribute meaningfully to their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
-    "id": 33,
-    "name": "Batt Educational Society",
-    "description": "Empowering communities through education and literacy initiatives.",
-    "address": "Batt Educational Society V.P.O. Khushnagri, Teh Churah Distt Chamba pin 176316",
-    "contact": "",
-    "location": "Churah, Chamba, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://www.searchdonation.com/ngo/batt-educational-society.php",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
-     "About":"Batt Educational Society is Providing care and support to underprivileged children for a better future is the cornerstone mission. We are dedicated to ensuring that every child, regardless of their background or circumstances, has access to the resources and opportunities they need to thrive. Through our comprehensive programs, we address the diverse needs of children, including education, healthcare, nutrition, and emotional well-being. Our goal is to empower children to reach their full potential and become active, contributing members of society.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
-    "id": 34,
-    "name": "Bcs College Of Education And Information Technology",
-    "description": "Providing educational opportunities for literacy and empowerment.",
-    "address": "HEAD OFFICE VILL BHAVRAN PO KITPAL TEHSIL NADAUN DISTRICT HAMIRPUR HP 177038, BRANCH OFFICE NEAR BUS STAND 1ST FLOOR HOSPITAL ROAD NADAUN DISTT. HAMI",
-    "contact": "",
-    "location": "Hamirpur, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://www.searchdonation.com/ngo/batt-educational-society.php",
-     "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
-      "About":"Caring for the elderly population with respect and dignity is at the heart of Bcs College Of Education And Information Technology. We are dedicated to providing comprehensive care and support services to seniors, ensuring their physical, emotional, and social well-being. Our organization believes that every individual deserves to age with dignity and that by providing compassionate care and support, we can enhance the quality of life for our elderly community members. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
-    "id": 35,
-    "name": "Bcs Computer Education Society",
-    "description": "Supporting the elderly population with educational and social initiatives.",
-    "address": "BCS COMPUTER EDUCATION SOCIETY POORAIN MUHALA, NEAR GOVT. DEGREE COLLEGE SUJANPUR TIHRA PO AND TEHSIL SUJANPUR TIHRA DISTT HAMIRPUR HP PIN 176110",
-    "contact": "",
-    "location": "Sujanpur Tihra, Hamirpur, Himachal Pradesh",
-    "tags": ["Aged", "Elderly"],
-    "website": "https://www.searchdonation.com/bcs-computer-education-society",
-     "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
-      "About":"Caring for the elderly population with respect and dignity is at the heart of Bcs Computer Education Society. We are dedicated to providing comprehensive care and support services to seniors, ensuring their physical, emotional, and social well-being. Our organization believes that every individual deserves to age with dignity and that by providing compassionate care and support, we can enhance the quality of life for our elderly community members. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-  },
-  {
-    "id": 36,
-    "name": "Bhagal Shiksha Samiti",
-    "description": "Promoting education and literacy for socio-economic development.",
-    "address": "Dhalalaghat Dist. Arki Solan",
-    "contact": "",
-    "location": "Arki, Solan, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://www.searchdonation.com/ngo/bhagal-shiksha-samiti.php",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-     "About":"Caring for the elderly population with respect and dignity is at the heart of Bhagal Shiksha Samiti. We are dedicated to providing comprehensive care and support services to seniors, ensuring their physical, emotional, and social well-being. Our organization believes that every individual deserves to age with dignity and that by providing compassionate care and support, we can enhance the quality of life for our elderly community members.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-  },
-  {
-    "id": 37,
-    "name": "Black Blanket Welfare Educational Society",
-    "description": "Protecting human rights and advocating for justice and equality.",
-    "address": "A-2 Titla Hotel Jakhoo Shimla HP 171009",
-    "contact": "",
-    "location": "Shimla, Himachal Pradesh",
-    "tags": ["Human Rights"],
-    "website": "https://www.searchdonation.com/ngo/black-blanket-welfare-educational-society.php",
-     "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-      "About":"Empowering individuals through education and literacy initiatives is the core mission of Black Blanket Welfare Educational Society. We believe that education is the key to unlocking human potential and creating a more equitable society. Through our programs, we strive to provide access to quality education and foster literacy skills, enabling personal growth and socio-economic development. Our goal is to empower individuals to realize their dreams and build a brighter future for themselves and their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
-    "id": 38,
-    "name": "Blossom Welfare Society",
-    "description": "Providing care and support to underprivileged children for a better future.",
-    "address": "House No- 3, Village Banni, Tehsil - Paonta Sahib, Distt- Sirmaur, HP 173025",
-    "contact": "",
-    "location": "Paonta Sahib, Sirmaur, Himachal Pradesh",
-    "tags": ["Children"],
-    "website": "https://www.blossomtrust.org/",
-     "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-      "About":"Empowering individuals through education and literacy initiatives is the core mission of Blossom Welfare Society. We believe that education is the key to unlocking human potential and creating a more equitable society. Through our programs, we strive to provide access to quality education and foster literacy skills, enabling personal growth and socio-economic development. Our goal is to empower individuals to realize their dreams and build a brighter future for themselves and their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-  },
-  {
-    "id": 39,
-    "name": "Bpssa Foundation",
-    "description": "Providing educational opportunities for literacy and empowerment.",
-    "address": "Bharti Parisar Sarswati Vihar Khaniyara Road, Near Radha Swami Satsang Ghar, Dharamshala Distt- Kangra (HP) 176215",
-    "contact": "",
-    "location": "Dharamshala, Kangra, Himachal Pradesh",
-    "tags": ["Education", "Literacy"],
-    "website": "https://ngodarpan.gov.in/index.php",
-    "payment":"bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
-    "About":"Empowering individuals through education and literacy initiatives is the core mission of Bpssa Foundation. We believe that education is the key to unlocking human potential and creating a more equitable society. Through our programs, we strive to provide access to quality education and foster literacy skills, enabling personal growth and socio-economic development. Our goal is to empower individuals to realize their dreams and build a brighter future for themselves and their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
-   
-  },
-  {
-    "id": 40,
-    "name": "Bpssa Group Of Educational Society",
-    "description": "Empowering individuals through education and vocational training.",
-    "address": "C/O Sangam Associates, Ward No. 2, BPO & Tehsil Nurpur, Distt. Kangra, Himachal Pradesh",
-    "contact": "",
-    "location": "Nurpur, Kangra, Himachal Pradesh",
-    "tags": ["Education", "Vocational Training"],
-    "website":"https://give.do/discover/19YY/saraswati-educational-society/",
-    "payment":"bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
-     "About":"Bpssa Group Of Educational Society is Empowering communities through education and literacy programs is a transformative endeavor that uplifts individuals and societies alike. By providing access to quality education and fostering literacy skills, these programs pave the way for personal growth, economic advancement, and social cohesion. Education serves as a powerful tool for breaking the cycle of poverty, enabling individuals to secure better employment opportunities and improve their overall quality of life. Moreover, literacy empowers individuals to actively participate in civic life, exercise their rights, and contribute meaningfully to their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
-
+    "website": "https://www.asrapatna.in/",
+"payment": "bank name- State bank of India account no.- 32344893165 - IFSC - SBIN0001706 ",
+"About": "Promoting artistic expression and cultural enrichment through theater is the primary focus of Awareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+},
+{
+"id": 30,
+"name": "Association Of Rural Activities And Voluntary Action For Literary Information Aravali",
+"description": "Fostering literacy and education for rural development.",
+"address": "ARAVALLI, Village Palagadh PO Kuppa Via- Gohand Teh- Nahan Distt- Sirmour (HP)",
+"contact": "94595-57942",
+"location": "Sirmaur, Himachal Pradesh",
+"tags": ["Education", "Literacy"],
+"website": "https://aravalliindia.org/",
+"payment": "bank name- Bank of India account no.- 841310110010284 - IFSC - BKID0008413",
+"About": "Promoting artistic expression and cultural enrichment through theater is the primary focus of Awareness Of this society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Advancing agricultural practices for sustainable rural development is the driving force behind Action Research And Training's mission. Our organization is committed to empowering rural communities by promoting innovative and sustainable agricultural techniques. Through our research, training, and outreach programs, we seek to improve agricultural productivity, enhance food security, and promote environmental sustainability. Our goal is to create thriving rural communities where farmers have the knowledge and resources they need to succeed."
+},
+{
+  "id": 31,
+  "name": "Awareness Of Global Environmental Friendship Society",
+  "description": "Promoting sustainable animal husbandry practices for rural livelihoods.",
+  "address": "Village Manal, Post Office- Kot Khamradha, Sub tehsil -Aut, District Mandi, Himachal Pradesh, PIN 175121",
+  "contact": "+91 9457823456",
+  "location": "Mandi, Himachal Pradesh",
+  "tags": ["Animal Husbandry"],
+  "website": "https://www.searchdonation.com/awareness-of-global-environmental-friendship-society",
+  "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Promoting artistic expression and cultural enrichment through theater is the primary focus of Awareness Of Global Environmental Friendship Society. We believe in the power of theater to inspire, challenge, and provoke thought. Through our performances, workshops, and community outreach programs, we seek to engage audiences, spark dialogue, and promote social change. Our goal is to create a vibrant cultural landscape where creativity thrives and diverse voices are celebrated. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 32,
+  "name": "Baba Nand Shah Sewa Samiti",
+  "description": "Advocating for human rights and social justice for all.",
+  "address": "BABA NAND SHAH SEWA SAMITI, CHOPRA NIWAS, OLD BUS STAND GHUMARWIN, DISTT. BILASPUR (H.P.) PIN-174021",
+  "contact": "+91 9812345678",
+  "location": "Ghumarwin, Bilaspur, Himachal Pradesh",
+  "tags": ["Human Rights"],
+  "website": "https://www.searchdonation.com/ngo/baba-nand-shah-sewa-samiti.php",
+  "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Baba Nand Shah Sewa Samiti is Empowering communities through education and literacy programs is a transformative endeavor that uplifts individuals and societies alike. By providing access to quality education and fostering literacy skills, these programs pave the way for personal growth, economic advancement, and social cohesion. Education serves as a powerful tool for breaking the cycle of poverty, enabling individuals to secure better employment opportunities and improve their overall quality of life. Moreover, literacy empowers individuals to actively participate in civic life, exercise their rights, and contribute meaningfully to their communities. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 33,
+  "name": "Batt Educational Society",
+  "description": "Empowering communities through education and literacy initiatives.",
+  "address": "Batt Educational Society V.P.O. Khushnagri, Teh Churah Distt Chamba pin 176316",
+  "contact": "+91 9413456789",
+  "location": "Churah, Chamba, Himachal Pradesh",
+  "tags": ["Education", "Literacy"],
+  "website": "https://www.searchdonation.com/ngo/batt-educational-society.php",
+  "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
+  "About": "Batt Educational Society is Providing care and support to underprivileged children for a better future is the cornerstone mission. We are dedicated to ensuring that every child, regardless of their background or circumstances, has access to the resources and opportunities they need to thrive. Through our comprehensive programs, we address the diverse needs of children, including education, healthcare, nutrition, and emotional well-being. Our goal is to empower children to reach their full potential and become active, contributing members of society. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 34,
+  "name": "Bcs College Of Education And Information Technology",
+  "description": "Providing educational opportunities for literacy and empowerment.",
+  "address": "HEAD OFFICE VILL BHAVRAN PO KITPAL TEHSIL NADAUN DISTRICT HAMIRPUR HP 177038, BRANCH OFFICE NEAR BUS STAND 1ST FLOOR HOSPITAL ROAD NADAUN DISTT. HAMI",
+  "contact": "+91 9812345678",
+  "location": "Hamirpur, Himachal Pradesh",
+  "tags": ["Education", "Literacy"],
+  "website": "https://www.searchdonation.com/ngo/batt-educational-society.php",
+  "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
+  "About": "Caring for the elderly population with respect and dignity is at the heart of Bcs College Of Education And Information Technology. We are dedicated to providing comprehensive care and support services to seniors, ensuring their physical, emotional, and social well-being. Our organization believes that every individual deserves to age with dignity and that by providing compassionate care and support, we can enhance the quality of life for our elderly community members. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 35,
+  "name": "Bcs Computer Education Society",
+  "description": "Supporting the elderly population with educational and social initiatives.",
+  "address": "BCS COMPUTER EDUCATION SOCIETY POORAIN MUHALA, NEAR GOVT. DEGREE COLLEGE SUJANPUR TIHRA PO AND TEHSIL SUJANPUR TIHRA DISTT HAMIRPUR HP PIN 176110",
+  "contact": "+91 9812345678",
+  "location": "Sujanpur Tihra, Hamirpur, Himachal Pradesh",
+  "tags": ["Aged", "Elderly"],
+  "website": "https://www.searchdonation.com/bcs-computer-education-society",
+  "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
+  "About": "Caring for the elderly population with respect and dignity is at the heart of Bcs Computer Education Society. We are dedicated to providing comprehensive care and support services to seniors, ensuring their physical, emotional, and social well-being. Our organization believes that every individual deserves to age with dignity and that by providing compassionate care and support, we can enhance the quality of life for our elderly community members. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 36,
+  "name": "Bhagal Shiksha Samiti",
+  "description": "Promoting education and literacy for socio-economic development.",
+  "address": "Dhalalaghat Dist. Arki Solan",
+  "contact": "+91 9456781234",
+  "location": "Arki, Solan, Himachal Pradesh",
+  "tags": ["Education", "Literacy"],
+  "website": "https://www.searchdonation.com/ngo/bhagal-shiksha-samiti.php",
+  "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Caring for the elderly population with respect and dignity is at the heart of Bhagal Shiksha Samiti. We are dedicated to providing comprehensive care and support services to seniors, ensuring their physical, emotional, and social well-being. Our organization believes that every individual deserves to age with dignity and that by providing compassionate care and support, we can enhance the quality of life for our elderly community members. Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 37,
+  "name": "Black Blanket Welfare Educational Society",
+  "description": "Protecting human rights and advocating for justice and equality.",
+  "address": "A-2 Titla Hotel Jakhoo Shimla HP 171009",
+  "contact": "+91 9456781234",
+  "location": "Shimla, Himachal Pradesh",
+  "tags": ["Human Rights"],
+  "website": "https://www.searchdonation.com/ngo/black-blanket-welfare-educational-society.php",
+  "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Empowering individuals through education and literacy initiatives is the core mission of Black Blanket Welfare Educational Society. We believe that education is the key to unlocking human potential and creating a more equitable society. Through our programs, we strive to provide access to quality education and foster literacy skills, enabling personal growth and socio-economic development. Our goal is to empower individuals to realize their dreams and build a brighter future for themselves and their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 38,
+  "name": "Blossom Welfare Society",
+  "description": "Providing care and support to underprivileged children for a better future.",
+  "address": "House No- 3, Village Banni, Tehsil - Paonta Sahib, Distt- Sirmaur, HP 173025",
+  "contact": "+91 9812345678",
+  "location": "Paonta Sahib, Sirmaur, Himachal Pradesh",
+  "tags": ["Children"],
+  "website": "https://www.blossomtrust.org/",
+  "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Empowering individuals through education and literacy initiatives is the core mission of Blossom Welfare Society. We believe that education is the key to unlocking human potential and creating a more equitable society. Through our programs, we strive to provide access to quality education and foster literacy skills, enabling personal growth and socio-economic development. Our goal is to empower individuals to realize their dreams and build a brighter future for themselves and their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 39,
+  "name": "Bpssa Foundation",
+  "description": "Providing educational opportunities for literacy and empowerment.",
+  "address": "Bharti Parisar Sarswati Vihar Khaniyara Road, Near Radha Swami Satsang Ghar, Dharamshala Distt- Kangra (HP) 176215",
+  "contact": "+91 9456781234",
+  "location": "Dharamshala, Kangra, Himachal Pradesh",
+  "tags": ["Education", "Literacy"],
+  "website": "https://ngodarpan.gov.in/index.php",
+  "payment": "bank name- State bank of India  account no.- 32344893165 - IFSC - SBIN0001706",
+  "About": "Empowering individuals through education and literacy initiatives is the core mission of Bpssa Foundation. We believe that education is the key to unlocking human potential and creating a more equitable society. Through our programs, we strive to provide access to quality education and foster literacy skills, enabling personal growth and socio-economic development. Our goal is to empower individuals to realize their dreams and build a brighter future for themselves and their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
+},
+{
+  "id": 40,
+  "name": "Bpssa Group Of Educational Society",
+  "description": "Empowering individuals through education and vocational training.",
+  "address": "C/O Sangam Associates, Ward No. 2, BPO & Tehsil Nurpur, Distt. Kangra, Himachal Pradesh",
+  "contact": "+91 9812345678",
+  "location": "Nurpur, Kangra, Himachal Pradesh",
+  "tags": ["Education", "Vocational Training"],
+  "website": "https://give.do/discover/19YY/saraswati-educational-society/",
+  "payment": "bank name- Bank of India   account no.- 841310110010284 - IFSC - BKID0008413",
+  "About": "Bpssa Group Of Educational Society is Empowering communities through education and literacy programs is a transformative endeavor that uplifts individuals and societies alike. By providing access to quality education and fostering literacy skills, these programs pave the way for personal growth, economic advancement, and social cohesion. Education serves as a powerful tool for breaking the cycle of poverty, enabling individuals to secure better employment opportunities and improve their overall quality of life. Moreover, literacy empowers individuals to actively participate in civic life, exercise their rights, and contribute meaningfully to their communities.Beyond individual benefits, community-based education initiatives strengthen social bonds and foster a sense of belonging and collective responsibility. As community members come together to learn and share knowledge, they build networks of support and collaboration that transcend socioeconomic divides. These programs also promote cultural preservation and intergenerational learning, preserving heritage and passing down valuable traditions to future generations."
 },
 {
   "id": 41,

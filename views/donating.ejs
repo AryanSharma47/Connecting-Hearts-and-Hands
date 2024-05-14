@@ -11,7 +11,60 @@
 </head>
 <body>
 
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="/photos/download.jpg" alt="NGO logo"/>
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="/views/index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="/views/ngos.html">Donate</a>
+                    </li>
+                    <li>
+                    <div class="dd">
 
+                        <button class="dd-btn">Topics</button>
+                        <div class="dd-content">
+                            <a href="/views/health.html">Health</a>
+                            <a href="/views/agriculture.html">Agriculture</a>
+                            <a href="/views/rural.html">Rural Development</a>
+                            <a href="/views/right.html">Justice & Equality</a>
+                        </div>
+                    </div>
+
+                    </li>
+                    <li>
+                        <a href="/views/events.html">Events</a>
+                    </li>
+                    <li>
+                        <a href="/views/mission.html">Missions</a>
+                    </li>
+                    <li>
+                        <a href="/views/team.html">Our Team</a>
+                    </li>
+                    <% if (isLoggedIn) { %>
+                        <!-- If logged in, show user information and logout option -->
+                        <li>
+                            <div class="dropdown">
+                                <a href="#" class="dropbtn">Welcome, <%= user.name %></a>
+                                <div class="dropdown-content">
+                                    <a href="/logout">Logout</a>
+                                </div>
+                            </div>
+                        </li>
+                    <% } else { %>
+                        <!-- If not logged in, show login option -->
+                        <li><a href="/login">Login</a></li>
+                    <% } %> 
+                    
+                </ul>
+            </nav>
+        </div>
+    </header>
     
     <div class="container1">
         <h1>Bank Details for Donation</h1>
@@ -35,16 +88,21 @@
             <p><strong>IFSC Code:</strong> ICIC0000322</p>
             <p><strong>MICR Code:</strong> 110229044</p>
         </div>
+        <br><br>
         <h1>QR-Code for Donation</h1>
         <img src="/photos/qrcode.jpg" alt="Barcode Image" class="barcode">
+        <br><br>
         <div class="donation-method">
             <h1>Offline Donation Method</h1>
-            <p>You can send in an email, call up or write to National Organisation for Social Empowerment if you are interested in donating to us.</p>
-            <p>The help you give will help in bringing about a permanent, effective and a positive change in the lives of the needy and the poor children in India.</p>
-            <p>With your help we will be able to address the root cause behind violation of child’s rights. Besides this, you can help us in making the state accountable to the needs of the poor children and their right to education, medication, relief, food etc.</p>
-            <p>All that you will need to share is your contact details and your interest in being a volunteer with National Organisation for Social Empowerment. If need be you can even attend the regular meetings held by National Organisation for Social Empowerment. Here you can get an idea on the activities carried out and the kind of effective participation you can provide. You can even educate or teach the needy children in your spare time. Starting with the financially backward children in your own area will also do. By donating to National Organisation for Social Empowerment you can reach out to the poor Indian children and influence their lives positively.</p>
-            <p>The money you donate will be used in providing them food, clothing, education, medication and relief in different areas. With your help, a lot of difference will be made to get the entire system, working. If you are looking towards touching the lives of so many needy children in India then donate to us and help us accomplish this endeavour as successfully as possible.</p>
-            <p>Offline Donation by Cheque/DD/Pay Order in Favor of “National Organisation for Social Empowerment”, Payable at New Delhi.</p>
+            <p>
+                You can support the National Organisation for Social Empowerment by donating or volunteering. Your help will bring lasting positive change to the lives of needy children in India, addressing issues like education, healthcare, and basic necessities.
+
+To donate or volunteer, share your contact details and interest with us. You may also attend our regular meetings to learn more about our activities and how you can contribute. Volunteering opportunities include teaching or mentoring children in your area.
+
+Donations will fund food, clothing, education, and medical relief for poor children. Your contribution will help us make a significant impact.
+
+To donate offline, send a cheque/DD/Pay Order payable to "National Organisation for Social Empowerment" in New Delhi.
+            </p>
             <p><strong>National Organisation for Social Empowerment</strong></p>
             <p>TA – 204, 1st Floor, Ravidas Marg, Tughlakabad Extension, New Delhi- 110019</p>
             <p>All Donations are exempted Under Section 80 G(5)(vi) of Income Tax Act 1961.</p>
